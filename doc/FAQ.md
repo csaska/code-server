@@ -233,7 +233,7 @@ Once this is done, replicate the issue you're having then collect logging
 information from the following places:
 
 1. stdout
-2. The most recently created directory in the `~/.local/share/code-server/logs` directory.
+2. The most recently created directory in the `~/.local/share/code-server/coder-logs` directory.
 3. The browser console and network tabs.
 
 Additionally, collecting core dumps (you may need to enable them first) if
